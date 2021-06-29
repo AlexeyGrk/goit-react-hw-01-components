@@ -4,7 +4,7 @@ export const Card = styled.div`
   margin-block-start: 0;
   margin-block-end: 0;
   padding: 40px;
-  background-color: ;
+  background-color: #fcf7f4;
 `;
 export const Description = styled.div`
   display: flex;
