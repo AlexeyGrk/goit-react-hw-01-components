@@ -7,7 +7,9 @@ export const Section = styled.section`
   flex-direction: column;
   background-color: #87abe3;
 `;
-export const Title = styled.h2``;
+export const Title = styled.h2`
+  color: white;
+`;
 export const StatsList = styled.ul`
   padding-inline-start: 0;
   display: flex;
