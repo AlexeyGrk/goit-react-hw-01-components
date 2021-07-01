@@ -7,7 +7,7 @@ export const FriendsListItemCard = styled.li`
   background-color: #87abe3;
 `;
 export const FriendsListItemStatus = styled.span`
-  color: ${(props) => (props.status ? "hotpink" : "turquoise")};
+  color: ${(props) => (props.status ? "turquoise" : "hotpink")};
   margin: 10px;
 `;
 export const FriendsListItemImg = styled.img`
