@@ -16,7 +16,6 @@ import {
 } from "./Profile.styles";
 
 const Profile = (props) => {
-  //   console.log(props);
   const { avatar, name, tag, location, stats } = props;
   return (
     <div>
